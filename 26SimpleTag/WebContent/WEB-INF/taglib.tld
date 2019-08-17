@@ -1,0 +1,11 @@
+<taglib>
+<uri>demo/tags</uri>
+
+<jsp-version>2.1</jsp-version>
+<tlib-version>1.0</tlib-version>
+
+<tag>
+<name>simple</name>
+<tag-class>mypack.SimpleTag</tag-class>
+</tag>
+</taglib>
